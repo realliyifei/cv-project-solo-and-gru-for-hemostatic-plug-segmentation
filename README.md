@@ -39,3 +39,7 @@ The report can be found [here](report.pdf). However, due to the restricted acces
   <img src="images/map-result.jpg" width=700>
 </h1>
 
+## Further Work
+
+* Implement SOLO v2 since it’s more efficient on memory
+* Try to use CenterNet as head or Swin Transformer as backbone
