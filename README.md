@@ -6,7 +6,9 @@
 
 The report can be found [here](report.pdf).
 
-## Models
+## Methodology
+
+### Models
 
 *   DBSCAN Algorithm - image conversion
 *   Segmenting Objects by Locations (SOLO) - segmentation, paper is [here](https://arxiv.org/pdf/1912.04488.pdf)
@@ -25,8 +27,16 @@ The report can be found [here](report.pdf).
 
 ## Demo
 
+### Segmentation of Scanned Hemostatic Plug 
+
 <h1 align="center">
   <img src="images/infer-result.jpg">
+</h1>
+
+### mAP of Different Hyperparameter Sets
+
+<h1 align="center">
+  <img src="images/map-result.jpg" width=700>
 </h1>
 
 ## Clarification
