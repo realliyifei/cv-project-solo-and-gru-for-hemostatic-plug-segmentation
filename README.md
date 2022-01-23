@@ -16,11 +16,13 @@ The report can be found [here](report.pdf).
 <h1 align="center">
   <img src="images/arch.jpg">
 </h1>
+
 ### Loss Function
 
 <h1 align="center">
   <img src="images/loss-func.jpg" width=700>
 </h1>
+
 ## Demo
 
 <h1 align="center">
