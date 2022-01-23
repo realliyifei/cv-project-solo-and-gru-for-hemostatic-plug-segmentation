@@ -11,7 +11,7 @@ The report can be found [here](report.pdf). However, due to the restricted acces
 ### Models
 
 *   DBSCAN Algorithm - image conversion
-*   Segmenting Objects by Locations (SOLO) - segmentation, paper is [here](https://arxiv.org/pdf/1912.04488.pdf)
+*   [Segmenting Objects by Locations (SOLO)](https://arxiv.org/pdf/1912.04488.pdf) - instance segmentation
 *   ResNet50 - FPN backbone #1
 *   Bi-GRU (z-axis) - FPN backbone #2 
 
